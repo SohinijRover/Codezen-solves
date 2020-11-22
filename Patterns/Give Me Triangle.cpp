@@ -6,7 +6,6 @@ Pattern for N = 4
    *
 */
 
-
 void printPatt(int n)
 {
     for(int i=0;i<=n;i++)
