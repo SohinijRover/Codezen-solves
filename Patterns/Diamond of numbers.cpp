@@ -5,7 +5,6 @@
  123
   1 */
   
-
 void printPatt(int n)
 {
     int i;
