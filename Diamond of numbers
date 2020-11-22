@@ -4,6 +4,7 @@
 12345
  123
   1 */
+  
 
 void printPatt(int n)
 {
