@@ -1,7 +1,7 @@
 /*
-Input format :
+Input format :-
 Integer N
-Output format :
+Output format :-
 Corresponding reverse number
 */
 
